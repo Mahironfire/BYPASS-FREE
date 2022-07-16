@@ -22,6 +22,6 @@
 - `pip install bs4`
 - `rm -rf BYPASS-FREE`
 - `git clone https://github.com/Mahironfire/BYPASS-FREE`
-- `cd MAHIR-PAID`
-- `python MAHIR-PROCLONER.py`
+- `cd BYPASS-FREE`
+- `python FB-KING-CRACK.py`
      
